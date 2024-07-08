@@ -1,5 +1,5 @@
-# AnalogWatch
-Analog watch on the digital engine :)
+# AnalogClock
+Analog clock on the digital engine :)
 
 **Beautiful, simple, modular**ly constructed (using many pivots).
 
